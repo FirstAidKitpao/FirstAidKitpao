@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner">
+  <img src="assets/banner.jpe" width="100%" alt="Banner">
 </p>
 
 | ![Pixel Cat](assets/pixel-cat.png) | **💫 Hi, I'm Kei**<br><br>**Aspiring Cybersecurity Professional**<br>Computer Engineering Student • Self-taught Programmer • Philippines 🇵🇭<br><br>Passionate about ethical hacking, secure coding, and protecting people through technology.<br><br>**🌐 Connect With Me**<br><br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kitchienadal_)<br>[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FirstAidKitpao)<br>[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PussAndBoots)<br>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keithyanyan0@outlook.com)<br>[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iluvcats.co) |
