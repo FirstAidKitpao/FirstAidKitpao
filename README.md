@@ -1,33 +1,9 @@
-<table width="100%">
-  <tr>
-    <!-- LEFT: Pixel Cat -->
-    <td width="38%" align="center" valign="middle">
-      <img src="assets/pixel-cat.png" width="260" alt="Pixel Cat">
-    </td>
-
-    <!-- RIGHT: Title + Socials -->
-    <td width="62%" align="left" valign="middle">
-
-<h1>💫 Hi, I'm Kei</h1>
-
-<p><strong>Aspiring Cybersecurity Professional</strong><br>
-Computer Engineering Student • Self-taught Programmer • Philippines 🇵🇭</p>
-
-<p><em>Passionate about ethical hacking, secure coding, and using technology to protect people and systems.</em></p>
-
-<h3>🌐 Connect With Me</h3>
-
-<p>
-<a href="https://instagram.com/kitchienadal_"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/FirstAidKitpao"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><br>
-<a href="https://t.me/PussAndBoots"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="mailto:keithyanyan0@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://iluvcats.co"><img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Banner">
 </p>
 
-    </td>
-  </tr>
-</table>
+| ![Pixel Cat](assets/pixel-cat.png) | **💫 Hi, I'm Kei**<br><br>**Aspiring Cybersecurity Professional**<br>Computer Engineering Student • Self-taught Programmer • Philippines 🇵🇭<br><br>Passionate about ethical hacking, secure coding, and protecting people through technology.<br><br>**🌐 Connect With Me**<br><br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kitchienadal_)<br>[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FirstAidKitpao)<br>[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PussAndBoots)<br>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keithyanyan0@outlook.com)<br>[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iluvcats.co) |
+|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
