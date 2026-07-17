@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Aesthetic Header">
+  <img src="assets/banner.jpe" width="100%" alt="Aesthetic Header">
 </p>
 
 <h1 align="center">💫 Hi, I'm Kei</h1>
